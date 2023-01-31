@@ -1,6 +1,6 @@
 backend:
-  name: theoatsoath
-  repo: nataliedouglas/theoatsoath # Path to your GitHub repository
+  name: github
+  repo: natalied0uglas/theoatsoath # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: theoatsoath.netlify.app #Your site on netlify
   use_graphql: true
