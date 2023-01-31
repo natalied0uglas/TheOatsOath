@@ -1,5 +1,5 @@
 ---
-title: Oat-ragous Smoothie!
+title: Oat-ragous Fruit Smoothie!
 date: 2019-10-19
 order: 1
 layout: recipe
