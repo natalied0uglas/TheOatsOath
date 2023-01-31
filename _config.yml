@@ -1,7 +1,7 @@
 
 # SITE CONFIGURATION
 url: "https://theoatsoath.netlify.app"   #change this to yours
-repository: nataliedouglas/theoatsoath
+repository: natalied0uglas/theoatsoath
 title: Your recipe collection
 recipemenu: false # you can change to true and a menu of all recipes will appear
 editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
