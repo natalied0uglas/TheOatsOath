@@ -1,5 +1,5 @@
 ---
-title: T-OAT-al Detox
+title: T-OAT-al Detox Bowl
 date: 2022-10-19
 order: 2
 layout: recipe
