@@ -7,10 +7,11 @@ published: true
 date: 2023-01-31T14:50:07.379Z
 ---
 
-Here is an introduction to my recipe site
+The Oats Oath: 
+This book vows to provide you with the knowledge on Healthy Oat Recipes that will quench your sweet-tooth and inspire your taste-buds - with no shame or regret afterwards! 
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+Sound to good to be true? Let us prove it... smoothie, snack or meal first?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
