@@ -4,7 +4,13 @@ date: 2023-01-31T14:55:42.107Z
 order: 4
 layout: recipe
 ---
+Learning to combine Health with Cravings is a true game-changer when it comes to a balanced diet! This protein and oat-based snack will garuntee your sweet-tooth to be satisfied and regret-FREE.
 
+*Servings:* 1-2 portions (approx. 10 balls)
+
+*Total Prep Time:* 7mins
+
+*Total Time:* 2hrs (reccomended to be prepped overnight)
 
 * 29 grams (average: 1 scoop) White Chocolate/Coco Protein Powder
 * 1 Cup Organic Oats
@@ -13,3 +19,5 @@ layout: recipe
 * 1/8 Teaspoon Kosher Salt
 * 1 Tablespoon Honey
 * 1/4 Cup Frozen Crushed Raspberries (optional)
+
+*Let's get started!*
