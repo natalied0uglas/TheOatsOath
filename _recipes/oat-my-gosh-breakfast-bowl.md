@@ -14,3 +14,4 @@ layout: recipe
 * 1 Tablespoon Honey
 * 1/4 Cup Blueberries and Raspberries
 * 1/4 Sultanas (optional)
+* 1/4 Dark Chocolate Chips
