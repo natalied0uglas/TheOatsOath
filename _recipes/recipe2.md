@@ -1,5 +1,5 @@
 ---
-title: OAT-ragous Fruit Smoothie!
+title: T-OAT-al Detox Smoothie!
 date: 2019-10-19
 order: 1
 layout: recipe
