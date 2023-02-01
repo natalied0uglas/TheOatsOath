@@ -5,13 +5,17 @@ order: 1
 layout: recipe
 published: true
 ---
+
+
+![](../uploads/afaa1067-8f93-48ef-88f3-4ab85007e5ea.jpeg)
+
 This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Ingredients
 
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+* prehenderit deserunt veniam sunt et. 
+* Nulla ea est commodo minim quis. 
+* Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
 
 ## Method
 
@@ -27,6 +31,5 @@ Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation ad
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-- Serves 10
-- Cooking time 3 hours 
+* Serves 10
+* Cooking time 3 hours
