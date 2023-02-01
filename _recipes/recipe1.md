@@ -1,5 +1,5 @@
 ---
-title: T-OAT-al Detox Bowl
+title: OAT-ragous Flavour
 date: 2022-10-19
 order: 4
 layout: recipe
