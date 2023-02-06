@@ -6,7 +6,7 @@ layout: recipe
 ---
 ![](../uploads/7c69de6c-1c91-4473-99fe-d571aff3c859.jpeg)
 
-#### Berry and Oat Smoothie
+#### Berry and Oat Smoothie Bowl
 
 * 1/2 cup [rolled oats](https://oatseveryday.com/know-your-oats-2/#rolled-oats) (125 ml)
 * 1 cup milk dairy or non-dairy (250 ml)
