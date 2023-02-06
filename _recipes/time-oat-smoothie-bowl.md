@@ -16,9 +16,13 @@ You will need...
 * 1/4 cup yogurt vanilla (60 ml)
 * 1 cup berries strawberry, raspberry, blueberry or blackberry, frozen (250 ml)
 
-## Servings: 
+## Servings:
 
 * 1
+
+## Time:
+
+* 8mins
 
 ## Ready, Set, OAT!
 
