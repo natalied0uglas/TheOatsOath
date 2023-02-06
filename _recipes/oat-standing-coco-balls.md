@@ -6,24 +6,26 @@ layout: recipe
 ---
 ![](../uploads/490a3136-b93f-4cec-8881-daf6c43bc707.jpeg)
 
-
-
-
-
 Learning to combine Health with Cravings is a true game-changer when it comes to a balanced diet! This protein and oat-based snack will garuntee your sweet-tooth to be satisfied and regret-FREE.
 
-*Servings:* 1-2 portions (approx. 10 balls)
+# Let's Begin!
 
-*Total Prep Time:* 7mins
+You will need...
 
-*Total Time:* 2hrs (reccomended to be prepped overnight)
+* 1/2 cup [rolled oats](https://oatseveryday.com/know-your-oats-2/#rolled-oats) (125 ml)
+* 1 cup milk dairy or non-dairy (250 ml)
+* 1 Tbsp honey or agave (15 ml)
+* 1/4 cup yogurt vanilla (60 ml)
+* 1 cup berries strawberry, raspberry, blueberry or blackberry, frozen (250 ml)
 
-* 29 grams (average: 1 scoop) White Chocolate/Coco Protein Powder
-* 1 Cup Organic Oats
-* 1/2 Cup Oat Milk
-* 1/2 Cup Water
-* 1/8 Teaspoon Kosher Salt
-* 1 Tablespoon Honey
-* 1/4 Cup Frozen Crushed Raspberries (optional)
+## Servings:
 
-*Let's get started!*
+* 1
+
+## Time:
+
+* 8mins
+
+## Ready, Set, OAT!
+
+Insert instructions
