@@ -5,31 +5,24 @@ order: 1
 layout: recipe
 published: true
 ---
-
-
 ![](../uploads/afaa1067-8f93-48ef-88f3-4ab85007e5ea.jpeg)
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# You will need...
 
-## Ingredients
+* 1/2 cup [rolled oats](https://oatseveryday.com/know-your-oats-2/#rolled-oats) (125 ml)
+* 1 cup milk dairy or non-dairy (250 ml)
+* 1 Tbsp honey or agave (15 ml)
+* 1/4 cup yogurt vanilla (60 ml)
+* 1 cup berries strawberry, raspberry, blueberry or blackberry, frozen (250 ml)
 
-* prehenderit deserunt veniam sunt et. 
-* Nulla ea est commodo minim quis. 
-* Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+## Servings: 
 
-## Method
+* 1
 
-Veniam culpa ea cillum est qui ullamco velit esse labore. Proident aute irure dolore aliqua dolor reprehenderit duis enim eiusmod. Magna voluptate fugiat nulla sunt nostrud sit. Sit cupidatat cillum culpa sint ex eu.
+## Time: 
 
-Ullamco ullamco voluptate et nostrud aliquip nostrud cillum laboris qui ipsum cillum ad irure. Enim sunt proident cillum consectetur velit nostrud aliquip excepteur consequat officia laboris. Aute est qui exercitation voluptate irure dolor reprehenderit id laborum proident. Lorem eu proident est duis irure non est nostrud.
+* 8mins
 
-Dolore commodo consequat proident adipisicing consectetur ut consequat et enim quis non excepteur cupidatat. Nostrud eiusmod aute proident in ex cupidatat enim. Nulla aliquip mollit incididunt aliqua velit do nisi. Ullamco magna ad culpa dolor sint mollit.
+## Ready, Set, OAT!
 
-Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation adipisicing aliquip pariatur aliqua tempor minim. Nisi aute ut elit ut labore esse amet veniam ad sint ullamco minim est. Amet id non velit quis sit aliquip reprehenderit nisi ipsum pariatur sint enim reprehenderit. Qui id proident Lorem duis do nulla enim laboris commodo eu in enim esse.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* Serves 10
-* Cooking time 3 hours
+Insert instructions
