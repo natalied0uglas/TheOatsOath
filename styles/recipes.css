@@ -14,4 +14,68 @@
 
 /* the rest is up to you */
 
+/*! CSS bare bones for recipes site */
+
+ html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+*  {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* the rest is up to you */
+
+body{
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  margin-bottom: 12px;
+} 
+
+p { 
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+
+
+h2 {
+  color:black; 
+  margin: 12px;
+  margin-bottom: 12;
+}
+
+main { 
+  width: 60%;
+  max-width: 850px;
+  padding: 0 12px 0 12px;
+  margin: 0 auto;
+  background-color: azure;
+  margin-bottom: 12px;
+}
+
+img {
+  width: 100%;
+  float: right;
+  margin-bottom: 12px;
+}
+
+
+ul {
+  margin-left: 40px;
+  columns: 2;
+  margin-bottom: 12px;
+}
+
+li {
+  font-size: .8em;
+  margin-bottom: 12px;
+}
 
