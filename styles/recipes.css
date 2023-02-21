@@ -28,45 +28,96 @@
   box-sizing: border-box;
 }
 
+@media (max-width: 700px) {
+
+nav {
+  margin: 0;
+  position: static;
+  width: 100%;
+}
+nav ul {
+  font-size: 1rem;
+}
+
+main {
+  width: 100%;
+}
+
+
+
+}
+
 /* the rest is up to you */
 
 body{
-  background-color:  rgb(255, 197, 120);
+  background-color:  rgba(224, 145, 41, 0.566);
+  text-align: center;
+  font-size: 20px;
+  line-height: 25px;
+  color: black;
 }
 
 h1 {
-  color: black;
+  color: rgb(254, 205, 127);
   text-align: center;
-  margin-bottom: 12px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 55px;
+  line-height: 1;
+  background-color:  rgba(172, 204, 231, 0.711);
+  padding: 30px;
+  background-color: rgba(172, 204, 231, 0.711);
+
 } 
 
+
+
 p { 
-  margin-bottom: 12px;
+  margin-bottom: 20px;
   margin-top: 12px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
 h2 {
-  color:black; 
+  color: white;
   margin: 12px;
-  margin-bottom: 12;
+  margin-bottom: 12px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px; 
 }
 
 main { 
-  width: 60%;
+  width: 95%;
   max-width: 850px;
   padding: 0 12px 0 12px;
   margin: 0 auto;
-  background-color: azure;
+  background-color: rgba(172, 204, 231, 0.711);
   margin-bottom: 12px;
+
 }
 
 img {
   width: 100%;
-  float: right;
-  margin-bottom: 12px;
+  float: centre;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
+recipe-teaser {
+  flex-basis: 300px;
+  flex-grow: 1;
+  margin: 1em;
+
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 
 ul {
   margin-left: 40px;
@@ -78,4 +129,22 @@ li {
   font-size: .8em;
   margin-bottom: 12px;
 }
+
+button{
+  width: 180px;
+  height: 40px;
+  background-color: rgba(85, 85, 85, 0.833);
+  text-align: center;
+  margin-bottom: 20px;
+  
+}
+button a{
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+  color: rgb(255, 255, 255); 
+  text-align: center;
+font-size: 16px;
+}
+
 
