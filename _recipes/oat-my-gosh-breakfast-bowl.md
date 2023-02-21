@@ -20,16 +20,8 @@ You will need...
 * 1/4 Dark Chocolate Chips
 * 29 grams (average: 1 scoop) White Chocolate Protein Powder
 
+## Servings: 1
 
-
-## Servings:
-
-* 1
-
-## Time:
-
-* 8mins
+## Time: 8mins
 
 ## Ready, Set, OAT!
-
-Insert instructions
