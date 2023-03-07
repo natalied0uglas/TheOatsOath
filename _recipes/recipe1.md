@@ -1,5 +1,5 @@
 ---
-title: OAT-ragous Flavour
+title: "RECIPE 4:"
 date: 2022-10-19
 order: 4
 layout: recipe
