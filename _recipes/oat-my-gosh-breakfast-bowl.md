@@ -25,3 +25,9 @@ You will need...
 ## Time: 8mins
 
 ## Ready, Set, OAT!
+
+I recommend to first soak the raw oats in water for about 15 minutes. This is optional, but helps soften the grain to create a super creamy and smooth texture after blended. I usually combine the oats and water first and by the time everything else is ready, then the oats are ready too.
+
+Then, blend all the ingredients together until smooth. Depending on how thick you want your smoothie bowl to be, you can start with less milk and use just enough to get the blades going.
+
+Pour into a bowl and top with more fun and delicious ingredients. Enjoy right away while still a little frozen.
