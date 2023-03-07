@@ -1,5 +1,5 @@
 ---
-title: "OAT-STANDING White Chocolate and Raspberry Protein Balls "
+title: "RECIPE 2:"
 date: 2023-01-31T14:55:42.107Z
 order: 2
 layout: recipe
