@@ -1,5 +1,5 @@
 ---
-title: THE OATS OATH
+title: WELCOME TO
 coverimage: ../uploads/b7bf2edf-7f4d-45dc-a5bb-a7837d274741.jpeg
 permalink: /
 layout: recipeshome
