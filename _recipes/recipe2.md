@@ -1,5 +1,5 @@
 ---
-title: T-OAT-al Detox Smoothie!
+title: "RECIPE 1:"
 date: 2019-10-19
 order: 1
 layout: recipe
