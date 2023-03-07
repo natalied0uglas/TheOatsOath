@@ -49,6 +49,22 @@ main {
 
 }
 
+
+.recipe-teaser a {
+
+text-decoration: none;
+color: white;
+
+}
+
+.site-title a { 
+
+  text-decoration: none;
+  color: white;
+
+}
+
+
 /* the rest is up to you */
 
 body{
