@@ -1,5 +1,7 @@
 /*! CSS bare bones for recipes site */
 
+/*! CSS bare bones for recipes site */
+
  html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -54,20 +56,20 @@ body{
   text-align: center;
   font-size: 20px;
   line-height: 25px;
-  color: black;
+  color: white;
 }
 
 h1 {
-  color: rgb(254, 205, 127);
+  color: rgb(255, 255, 255);
   text-align: center;
   margin-bottom: 20px;
   margin-top: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 55px;
   line-height: 1;
-  background-color:  rgba(172, 204, 231, 0.711);
+  background-color:  rgba(86, 111, 131, 0.711);
   padding: 30px;
-  background-color: rgba(172, 204, 231, 0.711);
+  background-color: rgba(87, 109, 127, 0.711);
 
 } 
 
@@ -83,6 +85,7 @@ p {
 
 h2 {
   color: white;
+
   margin: 12px;
   margin-bottom: 12px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -94,8 +97,9 @@ main {
   max-width: 850px;
   padding: 0 12px 0 12px;
   margin: 0 auto;
-  background-color: rgba(172, 204, 231, 0.711);
+  background-color: rgba(86, 111, 131, 0.711);
   margin-bottom: 12px;
+  overflow: auto;
 
 }
 
@@ -133,7 +137,7 @@ li {
 button{
   width: 180px;
   height: 40px;
-  background-color: rgba(85, 85, 85, 0.833);
+  background-color: rgb(254, 205, 127);
   text-align: center;
   margin-bottom: 20px;
   
@@ -147,4 +151,45 @@ button a{
 font-size: 16px;
 }
 
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 
+}
+
+.recipe-teaser{
+  border: 1px solid grey;
+  flex-basis: 300px;
+  flex-grow: 1;
+  margin: 1em;
+  padding: 1em;
+}
+.recipe-teasera:hover {
+  color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 700ox) {
+  main { 
+    width: 100%;
+    max-width: 850px;
+    padding: 1em;
+    margin: 0 auto;
+    
+}
+
+nav {
+  margin: 0;
+  position: static;
+  width: 100%;
+  
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul {
+  font-size: 1rem;
+  
+}
