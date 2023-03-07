@@ -85,11 +85,15 @@ h1 {
   line-height: 1;
   background-color:  rgba(86, 111, 131, 0.711);
   padding: 30px;
-  background-color: rgba(87, 109, 127, 0.711);
 
 } 
 
 
+.recipe-teaser h1{
+
+background-color: rgb(254, 205, 127);
+
+}
 
 p { 
   margin-bottom: 20px;
@@ -175,14 +179,14 @@ font-size: 16px;
 }
 
 .recipe-teaser{
-  border: 1px solid grey;
+  border: 1px solid white;
   flex-basis: 300px;
   flex-grow: 1;
   margin: 1em;
   padding: 1em;
 }
 .recipe-teasera:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(254, 205, 127);
 }
 
 @media screen and (max-width: 700ox) {
