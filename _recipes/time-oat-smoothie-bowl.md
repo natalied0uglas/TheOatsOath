@@ -21,3 +21,7 @@ You will need...
 ## Time: 8mins
 
 ## Ready, Set, OAT!
+
+The night before, add all the ingredients except for the frozen banana to the bowl of your [blender](http://amzn.to/2HmYtyW) and give it a stir to ensure that everything is well combined. Cover and place in the fridge for at least 3 hours, preferably overnight. This step isn’t absolutely necessary, but allowing the oats and seeds to soak for a few hours will make them easier to blend and give you a smoother, creamier smoothie.
+
+When ready to eat, add the frozen banana and blend on high until oats are fully broken down and a smooth and creamy consistency is reached, adding more milk if the smoothie is too thick. Transfer it to a bowl, garnish with toppings of choice, and enjoy!
